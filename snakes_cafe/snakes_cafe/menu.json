@@ -1,0 +1,43 @@
+[
+    [
+        {
+            "headerText": "\n **************************************\n **    Welcome to the Snakes Cafe!   **\n **    Please see our menue below.   **\n **\t\t\t\t     **\n ** To quit at any time, type 'quit' **\n **************************************",
+            "footerText": "\n**************************************\n**  What would you like to order?   **\n**************************************"
+        }
+    ],
+    [
+        {
+            "cat": "Appetizers",
+            "items": [
+                "wings",
+                "cookies",
+                "spring Rolls"
+            ]
+        },
+        {
+            "cat": "Entrees",
+            "items": [
+                "salmon",
+                "steak",
+                "meat Tornado",
+                "a Literal Garden"
+            ]
+        },
+        {
+            "cat": "Desserts",
+            "items": [
+                "ice Cream",
+                "cake",
+                "pie"
+            ]
+        },
+        {
+            "cat": "Drinks",
+            "items": [
+                "coffee",
+                "tea",
+                "unicorn Tears"
+            ]
+        }
+    ]
+]
